@@ -104,60 +104,16 @@ All certificates are organized into categories for clarity and easy reference.
 
 ---
 
-## 6. Microsoft Learn Badges
+## 6. Microsoft Learn Achievements
+A collection of verified Microsoft Learn trophies, badges, certifications, and applied skills covering Azure fundamentals, AI concepts, data analytics, and Microsoft 365 Copilot skills.
 
-### 6.1 Azure Fundamentals & Cloud Computing
-- Describe Azure Compute and Networking Services
-- Describe Cloud Computing
-- Describe Cloud Service Types
-- Describe the Benefits of Using Cloud Services
-- Describe the Core Architectural Components of Azure
+🔗 Public Profile: https://learn.microsoft.com/en-gb/users/natalijamaric/
 
-### 6.2 AI, Data & Analytics
-- Discover Data Analysis
-- Get Started Building with Power BI
-- Introduction to AI Concepts
-- Uncover New Data Insights with AI
-- Unlock Productivity and Unleash Creativity with AI Powered Chat
-- What Is Generative AI?
-
-### 6.3 Microsoft 365 Copilot – Core Skills
-- Create and Draft with Microsoft 365 Copilot
-- Draft, Analyze, and Present with Microsoft 365 Copilot
-- Explore the Possibilities with Microsoft 365 Copilot
-- Introduction to AI Skills for Nonprofits
-- Introduction to Microsoft 365 Copilot
-- Make Your Meetings More Productive with AI
-- Optimize Business with Copilot
-- Optimize and Extend Microsoft 365 Copilot
-
-### 6.4 Microsoft 365 Copilot – Use Case Badges
-- Empower Your Workforce with Microsoft 365 Copilot: Challenge Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: Communications Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: Customer Service Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: Executives Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: Finance Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: HR Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: IT Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: Legal Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: Marketing Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: Operations Use Case
-- Empower Your Workforce with Microsoft 365 Copilot: Sales Use Case
-- Empower Your Workforce with Microsoft 365 Copilot Use Cases
+*(This profile updates automatically as I complete new Microsoft Learn achievements.)*
 
 ---
 
-## 7. Microsoft Learn Trophies
-- Draft, Analyze, and Present with Microsoft 365 Copilot
-- Empower Your Workforce with Microsoft 365 Copilot – Use Cases
-- Get Started with Microsoft 365 Copilot
-- Introduction to AI Skills for Nonprofits
-- Introduction to Cloud Infrastructure: Describe Cloud Concepts
-- Optimize Business Processes with Microsoft 365 Copilot
-
----
-
-## 8. Google Cloud Skills Badges
+## 7. Google Cloud Skills Badges
 Verified Google Cloud Skill Badges demonstrating practical knowledge in Generative AI, Large Language Models, and Responsible AI.
 
 🔗 Public Profile: https://www.skills.google/public_profiles/154a9856-7b06-4691-874d-11a5b274fd98
