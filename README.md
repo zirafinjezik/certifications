@@ -157,11 +157,15 @@ All certificates are organized into categories for clarity and easy reference.
 
 ---
 
-## 8. Google Cloud Skills Boost – Courses & Quizzes
-- Introduction to Generative AI
-- Introduction to Generative AI: Quiz
-- Introduction to Large Language Models
-- Introduction to Large Language Models: Quiz
-- Introduction to Responsible AI
-- Introduction to Responsible AI: Quiz
-- Responsible AI: Applying AI Principles with Google Cloud
+## 8. Google Cloud Skills Badges
+Verified Google Cloud Skill Badges demonstrating practical knowledge in Generative AI, Large Language Models, and Responsible AI.
+
+🔗 Public Profile: https://www.skills.google/public_profiles/154a9856-7b06-4691-874d-11a5b274fd98
+
+**Current badges include:**
+- Introduction to Generative AI  
+- Introduction to Large Language Models  
+- Introduction to Responsible AI  
+- Responsible AI: Applying AI Principles with Google Cloud  
+
+*(This section updates automatically as new badges are added to my Google Cloud profile.)*
