@@ -17,6 +17,10 @@ All certificates are organized into categories for clarity and easy reference.
 - ProZ Certified PRO – DE HR — ProZ.com
 - ProZ Certified PRO – EN DE — ProZ.com
 - Women in Localization – Member Certificate — Women in Localization
+- Localization of Video Games — ProZ.com
+- Video Games Localization 101 – Introduction to Video Game Localization — ProZ.com
+- Video Games Localization 102 – How to Localize a Video Game: First Steps — ProZ.com
+- Video Games Localization 103 – Creativity in Video Game Localization — ProZ.com
 
 ---
 
