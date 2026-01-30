@@ -15,7 +15,6 @@ Each certificate is organized into clear categories to provide a structured, eas
 - German Level 7 Advanced Diploma — Course Line
 
 ### 1.2 Localization & MTPE
-- Master MTPE Jobs — Udemy  
 - Machine Translation — Great Learning  
 - Master Machine Translation Post Editing & Emerging Jobs — Udemy  
 
@@ -43,7 +42,6 @@ Each certificate is organized into clear categories to provide a structured, eas
 - MemoQ TMS Essentials for Project Managers – Level 1 — memoQ  
 - MemoQ TMS Essentials for Project Managers – Level 2 — memoQ  
 - MemoQ Translator PRO – Basics — memoQ  
-- MemoQ Video Game Localization for Linguists — memoQ  
 
 ---
 
@@ -59,31 +57,20 @@ Each certificate is organized into clear categories to provide a structured, eas
 ### 4.1 General AI & Applied AI
 - AI and the Future of Work — University of the People  
 - AI for Managers (Microsoft + LinkedIn) — LinkedIn Learning  
-- AI Fundamentals — DataCamp  
-- AI Ethics — DataCamp  
 - AIin30 – Certificate of Completion — The Rift  
 - Basics of AI & AI Prompting for Translators & Interpreters — TranslaStars  
-- Become an AI Powered People Manager — LinkedIn Learning  
 - Bringing Ideas to Life Using AI — Coursera (AWS)  
 - ChatGPT and Bard for Translators — TranslaStars  
 - Content Localization with AI — TranslaStars  
 - Elements of AI — University of Helsinki  
 - Ethics of AI — University of Helsinki  
-- EU AI Act Fundamentals — DataCamp  
-- Generative AI Concepts — DataCamp  
-- Generative AI for Business — DataCamp  
 - Introduction to AI Agents — DataCamp  
-- Introduction to AI for Work — DataCamp  
-- Introduction to Artificial Intelligence — Simplilearn  
-- Introduction to AI Skills for Nonprofits — Microsoft  
 - Job Opportunities in Localization with an AI Focus — TranslaStars  
 - Large Language Models (LLMs) – Concepts — DataCamp  
 - Large Language Models for Business — DataCamp  
 - Optimize Business with Copilot — Microsoft  
 - Prompt Engineering for AI Applications — Alison  
 - Responsible AI Practices — DataCamp  
-- Understanding AI — DataCamp  
-- Understanding ChatGPT — DataCamp  
 - Understanding the EU AI Act — DataCamp  
 
 ### 4.2 Technical AI / ML / Data Science
@@ -95,21 +82,15 @@ Each certificate is organized into clear categories to provide a structured, eas
 - Calculus for Machine Learning — Dataquest  
 - Data Driven Decision Making — University of the People  
 - Introduction to API and RESTful API — Great Learning  
-- Introduction to Data — DataCamp  
-- Introduction to Data Science — Simplilearn  
-- Introduction to Machine Learning with R — Simplilearn  
 - Introduction to Natural Language Processing — Great Learning  
 - Introduction to Neural Network — Great Learning  
-- Introduction to Python — DataCamp  
 - Introduction to Python for Developers — DataCamp  
-- Machine Translation — Great Learning  
 - Mathematics for Machine Learning – Linear Algebra — Coursera  
 - Natural Language Processing Projects — Great Learning  
 - Neural Networks and Deep Learning — Coursera  
 - Python Course: Zero to Hero (Intermediate Level) — Udemy  
 - Structuring Machine Learning Projects — Coursera  
 - Understanding Embeddings for Natural Language Processing — Hasso Plattner Institute  
-- Understanding Machine Learning — DataCamp  
 
 ---
 
