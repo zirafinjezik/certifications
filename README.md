@@ -8,89 +8,90 @@ Each certificate is organized into clear categories to provide a structured, eas
 ## 1.0 Translation, Localization & Language Industry
 
 ### 1.1 Core Translation & Language Skills
-- CIOL Diploma in Translation – Business Unit (13 credits) — Chartered Institute of Linguists (CIOL)  
-- Oxford Placement Test (C1 result) — Oxford University Press  
-- ProZ Certified PRO – English–German (EN–DE) — ProZ.com  
-- ProZ Certified PRO – German–Croatian (DE–HR) — ProZ.com
-- German Level 7 Advanced Diploma — Course Line
+- CIOL Diploma in Translation – Business Unit (13 credits) – Chartered Institute of Linguists (CIOL)  
+- Oxford Placement Test (C1 result) – Oxford University Press  
+- ProZ Certified PRO – English–German (EN–DE) – ProZ.com  
+- ProZ Certified PRO – German–Croatian (DE–HR) – ProZ.com
+- German Level 7 Advanced Diploma – Course Line
 
 ### 1.2 Localization & MTPE
-- Machine Translation — Great Learning  
-- Master Machine Translation Post Editing & Emerging Jobs — Udemy  
+- Machine Translation – Great Learning  
+- Master Machine Translation Post Editing & Emerging Jobs – Udemy
+- AI in Translation Bootcamp – techforword  
 
 ### 1.3 DTP & Industry Skills
-- DTP for Translators — ProZ.com  
-- Desktop Publishing (DTP) for Language Services — Translators Without Borders (TWB)  
+- DTP for Translators – ProZ.com  
+- Desktop Publishing (DTP) for Language Services – Translators Without Borders (TWB)  
 
 ### 1.4 Video Game Localization
-- Video Games Localization 101 – Introduction — ProZ.com  
-- Video Games Localization 102 – How to Localize a Video Game — ProZ.com  
-- Video Games Localization 103 – Advanced Topics — ProZ.com  
-- Intro to Video Game Localization for Linguists — memoQ  
+- Video Games Localization 101 – Introduction – ProZ.com  
+- Video Games Localization 102 – How to Localize a Video Game – ProZ.com  
+- Video Games Localization 103 – Advanced Topics – ProZ.com  
+- Intro to Video Game Localization for Linguists – memoQ  
 
 ### 1.5 Industry Events
-- International Translation Day 2025 – Full Course — ProZ.com  
-- AI in Translation – Conference Attendee — AI in Translation  
-- Adriatic Translation Conference – Attendee — Adriatic Translation Conference  
-- ELEVATE 2025 – Certificate of Attendance — RWS
-- Wordscope – Data Confidentiality in the Age of AI — Institute of Translation and Interpreting
+- International Translation Day 2025 – Full Course – ProZ.com  
+- AI in Translation – Conference Attendee – AI in Translation  
+- Adriatic Translation Conference – Attendee – Adriatic Translation Conference  
+- ELEVATE 2025 – Certificate of Attendance – RWS
+- Wordscope – Data Confidentiality in the Age of AI – Institute of Translation and Interpreting
 
 ---
 
 ## 2.0 MemoQ Training
-- MemoQ Project Management in MemoQ Web – Advanced — memoQ  
-- MemoQ TMS Essentials for Project Managers – Level 1 — memoQ  
-- MemoQ TMS Essentials for Project Managers – Level 2 — memoQ  
-- MemoQ Translator PRO – Basics — memoQ  
+- MemoQ Project Management in MemoQ Web – Advanced – memoQ  
+- MemoQ TMS Essentials for Project Managers – Level 1 – memoQ  
+- MemoQ TMS Essentials for Project Managers – Level 2 – memoQ  
+- MemoQ Translator PRO – Basics – memoQ  
 
 ---
 
 ## 3.0 CAT Tools & Industry Software
-- SDL Post Editing Certification — SDL  
-- Trados Studio 2024 – Level 1 Certification — RWS Group  
-- Get the Most Out of Jira — Atlassian  
+- SDL Post Editing Certification – SDL  
+- Trados Studio 2024 – Level 1 Certification – RWS Group  
+- Get the Most Out of Jira – Atlassian  
 
 ---
 
 ## 4.0 Artificial Intelligence, Machine Learning & Data
 
 ### 4.1 General AI & Applied AI
-- AI and the Future of Work — University of the People  
-- AI for Managers (Microsoft + LinkedIn) — LinkedIn Learning  
-- AIin30 – Certificate of Completion — The Rift  
-- Basics of AI & AI Prompting for Translators & Interpreters — TranslaStars  
-- Bringing Ideas to Life Using AI — Coursera (AWS)  
-- ChatGPT and Bard for Translators — TranslaStars  
-- Content Localization with AI — TranslaStars  
-- Elements of AI — University of Helsinki  
-- Ethics of AI — University of Helsinki  
-- Introduction to AI Agents — DataCamp  
-- Job Opportunities in Localization with an AI Focus — TranslaStars  
-- Large Language Models (LLMs) – Concepts — DataCamp  
-- Large Language Models for Business — DataCamp  
-- Optimize Business with Copilot — Microsoft  
-- Prompt Engineering for AI Applications — Alison  
-- Responsible AI Practices — DataCamp  
-- Understanding the EU AI Act — DataCamp  
+- AI and the Future of Work – University of the People  
+- AI for Managers (Microsoft + LinkedIn) – LinkedIn Learning  
+- AIin30 – Certificate of Completion – The Rift  
+- Basics of AI & AI Prompting for Translators & Interpreters – TranslaStars  
+- Bringing Ideas to Life Using AI – Coursera (AWS)  
+- ChatGPT and Bard for Translators – TranslaStars  
+- Content Localization with AI – TranslaStars  
+- Elements of AI – University of Helsinki  
+- Ethics of AI – University of Helsinki  
+- Introduction to AI Agents – DataCamp  
+- Job Opportunities in Localization with an AI Focus – TranslaStars  
+- Large Language Models (LLMs) – Concepts – DataCamp  
+- Large Language Models for Business – DataCamp  
+- Optimize Business with Copilot – Microsoft  
+- Prompt Engineering for AI Applications – Alison  
+- Responsible AI Practices – DataCamp  
+- Understanding the EU AI Act – DataCamp  
 
 ### 4.2 Technical AI / ML / Data Science
-- Advanced Certificate in Machine Learning — London School of Business Administration  
-- AI Agent Fundamentals — DataCamp  
-- AWS Generative AI Applications — Coursera  
-- AWS Services for AI Solutions — AWS  
-- Building Scalable Agentic Systems — DataCamp  
-- Calculus for Machine Learning — Dataquest  
-- Data Driven Decision Making — University of the People  
-- Introduction to API and RESTful API — Great Learning  
-- Introduction to Natural Language Processing — Great Learning  
-- Introduction to Neural Network — Great Learning  
-- Introduction to Python for Developers — DataCamp  
-- Mathematics for Machine Learning – Linear Algebra — Coursera  
-- Natural Language Processing Projects — Great Learning  
-- Neural Networks and Deep Learning — Coursera  
-- Python Course: Zero to Hero (Intermediate Level) — Udemy  
-- Structuring Machine Learning Projects — Coursera  
-- Understanding Embeddings for Natural Language Processing — Hasso Plattner Institute  
+- Advanced Certificate in Machine Learning – London School of Business Administration  
+- AI Agent Fundamentals – DataCamp  
+- AWS Generative AI Applications – Coursera  
+- AWS Services for AI Solutions – AWS  
+- Building Scalable Agentic Systems – DataCamp  
+- Calculus for Machine Learning – Dataquest  
+- Data Driven Decision Making – University of the People  
+- Introduction to API and RESTful API – Great Learning  
+- Introduction to Natural Language Processing – Great Learning  
+- Introduction to Neural Network – Great Learning  
+- Introduction to Python for Developers – DataCamp  
+- Mathematics for Machine Learning – Linear Algebra – Coursera  
+- Natural Language Processing Projects – Great Learning  
+- Neural Networks and Deep Learning – Coursera  
+- Python Course: Zero to Hero (Intermediate Level) – Udemy  
+- Structuring Machine Learning Projects – Coursera  
+- Understanding Embeddings for Natural Language Processing – Hasso Plattner Institute  
 
 ---
 
