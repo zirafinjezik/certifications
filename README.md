@@ -21,7 +21,8 @@ Each certificate is organized into clear categories to provide a structured, eas
 
 ### 1.3 DTP & Industry Skills
 - DTP for Translators – ProZ.com  
-- Desktop Publishing (DTP) for Language Services – Translators Without Borders (TWB)  
+- Desktop Publishing (DTP) for Language Services – Translators Without Borders (TWB)
+- Caption This! Become a Pro in Video Captioning and Subtitles – Udemy  
 
 ### 1.4 Video Game Localization
 - Video Games Localization 101 – Introduction – ProZ.com  
