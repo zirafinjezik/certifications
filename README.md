@@ -1,7 +1,6 @@
 # Certifications
 
 This repository showcases my professional certifications across localization, translation technology, CAT tools, artificial intelligence, machine learning, cloud computing, and data.  
-Each certificate is organized into clear categories to provide a structured, easy-to-navigate overview of my continuous learning and industry expertise.
 
 ---
 
@@ -30,13 +29,6 @@ Each certificate is organized into clear categories to provide a structured, eas
 - Video Games Localization 103 – Advanced Topics – ProZ.com  
 - Intro to Video Game Localization for Linguists – memoQ  
 
-### 1.5 Industry Events
-- International Translation Day 2025 – Full Course – ProZ.com  
-- AI in Translation – Conference Attendee – AI in Translation  
-- Adriatic Translation Conference – Attendee – Adriatic Translation Conference  
-- ELEVATE 2025 – Certificate of Attendance – RWS
-- Wordscope – Data Confidentiality in the Age of AI – Institute of Translation and Interpreting
-
 ---
 
 ## 2.0 MemoQ Training
@@ -59,19 +51,13 @@ Each certificate is organized into clear categories to provide a structured, eas
 ### 4.1 General AI & Applied AI
 - AI and the Future of Work – University of the People  
 - AI for Managers (Microsoft + LinkedIn) – LinkedIn Learning  
-- AIin30 – Certificate of Completion – The Rift  
-- Basics of AI & AI Prompting for Translators & Interpreters – TranslaStars  
 - Bringing Ideas to Life Using AI – Coursera (AWS)  
-- ChatGPT and Bard for Translators – TranslaStars  
 - Content Localization with AI – TranslaStars  
 - Elements of AI – University of Helsinki  
 - Ethics of AI – University of Helsinki  
 - Introduction to AI Agents – DataCamp  
-- Job Opportunities in Localization with an AI Focus – TranslaStars  
 - Large Language Models (LLMs) – Concepts – DataCamp  
 - Large Language Models for Business – DataCamp  
-- Optimize Business with Copilot – Microsoft  
-- Prompt Engineering for AI Applications – Alison  
 - Responsible AI Practices – DataCamp  
 - Understanding the EU AI Act – DataCamp  
 
@@ -83,14 +69,12 @@ Each certificate is organized into clear categories to provide a structured, eas
 - Building Scalable Agentic Systems – DataCamp  
 - Calculus for Machine Learning – Dataquest  
 - Data Driven Decision Making – University of the People  
-- Introduction to API and RESTful API – Great Learning  
 - Introduction to Natural Language Processing – Great Learning  
 - Introduction to Neural Network – Great Learning  
 - Introduction to Python for Developers – DataCamp  
 - Mathematics for Machine Learning – Linear Algebra – Coursera  
 - Natural Language Processing Projects – Great Learning  
 - Neural Networks and Deep Learning – Coursera  
-- Python Course: Zero to Hero (Intermediate Level) – Udemy  
 - Structuring Machine Learning Projects – Coursera  
 - Understanding Embeddings for Natural Language Processing – Hasso Plattner Institute  
 
@@ -117,12 +101,6 @@ Public Profile: https://learn.microsoft.com/en-gb/users/natalijamaric/
 Verified Google Cloud Skill Badges demonstrating practical knowledge in Generative AI, Large Language Models, and Responsible AI.  
 
 Public Profile: https://www.skills.google/public_profiles/154a9856-7b06-4691-874d-11a5b274fd98  
-
-Current badges include:  
-- Introduction to Generative AI  
-- Introduction to Large Language Models  
-- Introduction to Responsible AI  
-- Responsible AI: Applying AI Principles with Google Cloud  
 
 ---
 
