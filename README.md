@@ -27,6 +27,7 @@ This repository showcases my professional certifications across localization, tr
 - Video Games Localization 103 – Advanced Topics – ProZ.com
 - Intro to Video Game Localization for Linguists – memoQ
 - Expert on Game Localization – TranslaStars
+- The Videogame Localization Course – TranslaStars
 
 ### 1.5 Copywriting & SEO
 - Satzbau-Bausatz: Besser Texten in der digitalen Welt – TranslaStars
@@ -67,14 +68,22 @@ This repository showcases my professional certifications across localization, tr
 ### 4.1 General AI & Applied AI
 - AI and the Future of Work – University of the People
 - AI for Managers (Microsoft + LinkedIn) – LinkedIn Learning
-- Content Localization with AI – TranslaStars
+- Content Localization with AI: Smarter Workflows in Gridly's CMS & TMS – TranslaStars
 - Elements of AI – University of Helsinki
 - Ethics of AI – University of Helsinki
 - Understanding the EU AI Act – DataCamp
+- Responsible AI Practices – DataCamp
+- Generative AI Concepts – DataCamp
+- AI Ethics – DataCamp
+- Large Language Models for Business – DataCamp
+- AI for Translators & Interpreters (IV Ed. 2026) – TranslaStars
+- ChatGPT and Bard for Translators – TranslaStars
 
 ### 4.2 Technical AI / ML / Data Science
 - Advanced Certificate in Machine Learning – London School of Business Administration
 - AI Agent Fundamentals – DataCamp
+- Introduction to AI Agents – DataCamp
+- Understanding Machine Learning – DataCamp
 - AWS Generative AI Applications – Coursera
 - AWS Services for AI Solutions – AWS
 - Building Scalable Agentic Systems – DataCamp
@@ -86,10 +95,11 @@ This repository showcases my professional certifications across localization, tr
 - Understanding Embeddings for Natural Language Processing – Hasso Plattner Institute
 
 ### 4.3 Python
-- Python Programming Fundamentals – EITCA Academy (EITC/CP/PPF)
+- Introduction to Python – DataCamp
+- Introduction to Python for Developers – DataCamp
 - Python Course from Zero-to-Hero – Intermediate Level – Udemy
 - The Complete Python Bootcamp From Zero to Hero in Python – Udemy *(in progress)*
-  
+
 ## 5.0 EITCA Academy – AI & Cloud Modules
 
 ### EITCA/AI Programme Certificate
