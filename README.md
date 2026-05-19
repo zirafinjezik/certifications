@@ -57,7 +57,7 @@ This repository showcases my professional certifications across localization, tr
 
 ## 3.1 QA & Project Management Tools
 - Get the Most Out of Jira – Atlassian
-- Start Your API Testing Journey With Postman Tool – Coursera, May 2026
+- Start Your API Testing Journey With Postman Tool – Coursera
 - Learn Jira with Real-World Examples (+ Confluence Bonus) – Udemy *(in progress)*
 - The Complete 2026 Software Testing Bootcamp – Udemy *(in progress)*
 - ISTQB® Certified Tester – Foundation Level – 2026 – Udemy *(in progress)*
@@ -85,6 +85,11 @@ This repository showcases my professional certifications across localization, tr
 - Structuring Machine Learning Projects – Coursera
 - Understanding Embeddings for Natural Language Processing – Hasso Plattner Institute
 
+### 4.3 Python
+- Python Programming Fundamentals – EITCA Academy (EITC/CP/PPF)
+- Python Course from Zero-to-Hero – Intermediate Level – Udemy
+- The Complete Python Bootcamp From Zero to Hero in Python – Udemy *(in progress)*
+  
 ## 5.0 EITCA Academy – AI & Cloud Modules
 
 ### EITCA/AI Programme Certificate
