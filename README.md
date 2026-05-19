@@ -2,8 +2,6 @@
 
 This repository showcases my professional certifications across localization, translation technology, CAT tools, artificial intelligence, machine learning, cloud computing, and data.
 
----
-
 ## 1.0 Translation, Localization & Language Industry
 
 ### 1.1 Core Translation & Language Skills
@@ -33,6 +31,7 @@ This repository showcases my professional certifications across localization, tr
 ### 1.5 Copywriting & SEO
 - Satzbau-Bausatz: Besser Texten in der digitalen Welt – TranslaStars
 - SEO und SEA-Übersetzung – TranslaStars
+- AI SEO Course 2026: From Zero to Page-One Results (AEO, GEO) – Udemy *(in progress)*
 
 ### 1.6 Subtitling & Accessibility
 - Caption This! Become a Pro in Video Captioning and Subtitles – Udemy
@@ -44,32 +43,30 @@ This repository showcases my professional certifications across localization, tr
 - Continuous Localization with Crowdin – TranslaStars
 - Evaluating Translation through MQM – TranslaStars
 
----
-
 ## 2.0 memoQ Training
 - memoQ Project Management in memoQ Web – Advanced – memoQ
 - memoQ TMS Essentials for Project Managers – Level 1 – memoQ
 - memoQ TMS Essentials for Project Managers – Level 2 – memoQ
 - memoQ Translator PRO – Basics – memoQ
 
----
-
 ## 3.0 CAT Tools & Industry Software
 - SDL Post Editing Level 1 Certification – SDL / RWS
-- Trados Studio 2024 – Level 1 Certification – RWS
 - Trados Studio 2024 – Level 3 Certification – RWS
 - Linguistic AI Certification Training – RWS
 - Linguistic Prompt Design Training – RWS
-- Get the Most Out of Jira – Atlassian
 
----
+## 3.1 QA & Project Management Tools
+- Get the Most Out of Jira – Atlassian
+- Start Your API Testing Journey With Postman Tool – Coursera, May 2026
+- Learn Jira with Real-World Examples (+ Confluence Bonus) – Udemy *(in progress)*
+- The Complete 2026 Software Testing Bootcamp – Udemy *(in progress)*
+- ISTQB® Certified Tester – Foundation Level – 2026 – Udemy *(in progress)*
 
 ## 4.0 Artificial Intelligence, Machine Learning & Data
 
 ### 4.1 General AI & Applied AI
 - AI and the Future of Work – University of the People
 - AI for Managers (Microsoft + LinkedIn) – LinkedIn Learning
-- Bringing Ideas to Life Using AI – Coursera (AWS)
 - Content Localization with AI – TranslaStars
 - Elements of AI – University of Helsinki
 - Ethics of AI – University of Helsinki
@@ -83,21 +80,16 @@ This repository showcases my professional certifications across localization, tr
 - Building Scalable Agentic Systems – DataCamp
 - Calculus for Machine Learning – Dataquest
 - Data Driven Decision Making – University of the People
-- Introduction to Natural Language Processing – Great Learning
-- Introduction to Neural Networks – Great Learning
 - Mathematics for Machine Learning – Linear Algebra – Coursera
-- Natural Language Processing Projects – Great Learning
 - Neural Networks and Deep Learning – Coursera
 - Structuring Machine Learning Projects – Coursera
 - Understanding Embeddings for Natural Language Processing – Hasso Plattner Institute
-
----
 
 ## 5.0 EITCA Academy – AI & Cloud Modules
 
 ### EITCA/AI Programme Certificate
 - EITCA/AI – Artificial Intelligence Programme Certificate (24 ECTS) – EITCA Academy
-  - Certificate ID: EITCA/AI/SLJ25005288 | Issued: May 2026
+  Certificate ID: EITCA/AI/SLJ25005288 | Issued: May 2026
 
 ### Component EITC Certificates
 - EITC/AI/GCML – Google Cloud Machine Learning – EITCA Academy
@@ -113,32 +105,25 @@ This repository showcases my professional certifications across localization, tr
 - EITC/CP/PPF – Python Programming Fundamentals – EITCA Academy
 - EITC/CL/GCP – Google Cloud Platform – EITCA Academy
 
----
-
 ## 6.0 Microsoft Learn Achievements
 
 A collection of verified Microsoft Learn trophies, badges, certifications, and applied skills covering Azure fundamentals, AI concepts, data analytics, and Microsoft 365 Copilot skills.
 
 Public Profile: https://learn.microsoft.com/en-gb/users/natalijamaric/
 
----
+## 7.0 Google
 
-## 7.0 Google Cloud Skills Badges
-
-Verified Google Cloud Skill Badges demonstrating practical knowledge in Generative AI, Large Language Models, and Responsible AI.
-
-Public Profile: https://www.skills.google/public_profiles/154a9856-7b06-4691-874d-11a5b274fd98
-
----
+- Foundations of Data Science – Google Career Certificate / Coursera, May 2026
+- Google Cloud Skills Badges – https://www.skills.google/public_profiles/154a9856-7b06-4691-874d-11a5b274fd98
 
 ## 8.0 Professional Memberships
-- Croatian AI Association (CroAI) – Member
-- International Game Developers Association (IGDA) – Member
-- Women in Localization (WIL) – Member
-- Women in AI (WAI) – Member
-- Translators Without Borders (TWB) – Volunteer / Member
 - Chartered Institute of Linguists (CIOL) – MCIL Member
+- Croatian AI Association (CroAI) – Member
 - Institute of Translation and Interpreting (ITI) – Affiliate Member
+- International Game Developers Association (IGDA) – Member
+- Translators Without Borders (TWB) – Volunteer / Member
+- Women in AI (WAI) – Member
+- Women in Localization (WIL) – Member
 
 ---
 
@@ -147,4 +132,3 @@ Public Profile: https://www.skills.google/public_profiles/154a9856-7b06-4691-874
 Natalija Marić, DipTrans, MCIL, CL – Localization Engineer and LQA Specialist with 14+ years of experience in game localization, technical translation, and quality assurance.
 
 Žirafin jezik j.d.o.o. – https://zirafinjezik.hr | LinkedIn – https://www.linkedin.com/in/natalija-maric-zirafinjezik
-
