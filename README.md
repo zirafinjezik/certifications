@@ -44,6 +44,12 @@ This repository showcases my professional certifications across localization, tr
 - Continuous Localization with Crowdin – TranslaStars
 - Evaluating Translation through MQM – TranslaStars
 
+### 1.8 AI for Language Professionals
+- From ChatGPT to Claude: AI for Language Professionals – ProZ.com
+- Content Localization with AI: Smarter Workflows in Gridly's CMS & TMS – TranslaStars
+- AI for Translators & Interpreters (IV Ed. 2026) – TranslaStars
+- ChatGPT and Bard for Translators – TranslaStars
+
 ## 2.0 memoQ Training
 - memoQ Project Management in memoQ Web – Advanced – memoQ
 - memoQ TMS Essentials for Project Managers – Level 1 – memoQ
@@ -68,7 +74,6 @@ This repository showcases my professional certifications across localization, tr
 ### 4.1 General AI & Applied AI
 - AI and the Future of Work – University of the People
 - AI for Managers (Microsoft + LinkedIn) – LinkedIn Learning
-- Content Localization with AI: Smarter Workflows in Gridly's CMS & TMS – TranslaStars
 - Elements of AI – University of Helsinki
 - Ethics of AI – University of Helsinki
 - Understanding the EU AI Act – DataCamp
@@ -76,8 +81,6 @@ This repository showcases my professional certifications across localization, tr
 - Generative AI Concepts – DataCamp
 - AI Ethics – DataCamp
 - Large Language Models for Business – DataCamp
-- AI for Translators & Interpreters (IV Ed. 2026) – TranslaStars
-- ChatGPT and Bard for Translators – TranslaStars
 
 ### 4.2 Technical AI / ML / Data Science
 - Advanced Certificate in Machine Learning – London School of Business Administration
@@ -144,6 +147,5 @@ Public Profile: https://learn.microsoft.com/en-gb/users/natalijamaric/
 
 ## Author
 
-Natalija Marić, DipTrans, MCIL, CL – Localization Engineer and LQA Specialist with 14+ years of experience in game localization, technical translation, and quality assurance.
-
+Natalija Marić, DipTrans MCIL CL
 Žirafin jezik j.d.o.o. – https://zirafinjezik.hr | LinkedIn – https://www.linkedin.com/in/natalija-maric-zirafinjezik
