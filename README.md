@@ -50,6 +50,7 @@ This repository showcases my professional certifications across localization, tr
 - AI for Translators & Interpreters (IV Ed. 2026) – TranslaStars
 - ChatGPT and Bard for Translators – TranslaStars
 - AI Prompting for Translators: From Generic Output to Reliable Results – ProZ.com
+- From ChatGPT to Claude: AI for Language Professionals – ProZ.com
 
 ## 2.0 memoQ Training
 - memoQ Project Management in memoQ Web – Advanced – memoQ
