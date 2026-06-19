@@ -52,19 +52,17 @@ This repository showcases my professional certifications across localization, tr
 - AI Prompting for Translators: From Generic Output to Reliable Results – ProZ.com
 - From ChatGPT to Claude: AI for Language Professionals – ProZ.com
 
-## 2.0 memoQ Training
+## 2.0 TMS & Localization Technology
+- SDL Post Editing Level 1 Certification – SDL / RWS
+- Trados Studio 2024 – Level 3 Certification – RWS
+- Linguistic AI Certification Training – RWS
+- Linguistic Prompt Design Training – RWS
 - memoQ Project Management in memoQ Web – Advanced – memoQ
 - memoQ TMS Essentials for Project Managers – Level 1 – memoQ
 - memoQ TMS Essentials for Project Managers – Level 2 – memoQ
 - memoQ Translator PRO – Basics – memoQ
 
-## 3.0 CAT Tools & Industry Software
-- SDL Post Editing Level 1 Certification – SDL / RWS
-- Trados Studio 2024 – Level 3 Certification – RWS
-- Linguistic AI Certification Training – RWS
-- Linguistic Prompt Design Training – RWS
-
-## 3.1 QA & Project Management Tools
+## 3.0 Quality Assurance & Issue Tracking
 - Get the Most Out of Jira – Atlassian
 - Start Your API Testing Journey With Postman Tool – Coursera
 - Learn Jira with Real-World Examples (+ Confluence Bonus) – Udemy *(in progress)*
