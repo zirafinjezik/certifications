@@ -137,13 +137,16 @@ Public Profile: https://learn.microsoft.com/en-gb/users/natalijamaric/
 - Google Cloud Skills Badges – https://www.skills.google/public_profiles/154a9856-7b06-4691-874d-11a5b274fd98
 
 ## 8.0 Professional Memberships
-- Chartered Institute of Linguists (CIOL) – MCIL Member
-- Croatian AI Association (CroAI) – Member
+Linguistic Authority & Localization
+- Chartered Institute of Linguists (CIOL) – Chartered Linguist (MCIL CL)
 - Institute of Translation and Interpreting (ITI) – Affiliate Member
-- International Game Developers Association (IGDA) – Member
-- Translators Without Borders (TWB) – Volunteer / Member
-- Women in AI (WAI) – Member
 - Women in Localization (WIL) – Member
+- Translators Without Borders (TWB) – Volunteer
+
+Artificial Intelligence & Gaming
+- Croatian AI Association (CroAI) – Member
+- Women in AI (WAI) – Member
+- International Game Developers Association (IGDA) – Individual Member
 
 ---
 
