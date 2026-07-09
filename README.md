@@ -2,6 +2,15 @@
 
 This repository showcases my professional certifications across localization, translation technology, CAT tools, artificial intelligence, machine learning, cloud computing, and data.
 
+## How this maps to the work
+
+- **Evaluating Translation through MQM** and the LQA courses are the foundation for the [MQM Error Scorer](https://mqm.zirafinjezik.hr) and the [LQA training game](https://game.zirafinjezik.hr).
+- **Continuous Localization with Crowdin** and the QA/tooling track feed directly into [loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline), a CI gate for string tables.
+- The **video game localization** track (ProZ, memoQ, TranslaStars) backs the game specialization across all of it.
+- The **AI/ML and data** credentials support the data annotation and LLM evaluation side of my services.
+
+Everything linked above is live and open source.
+
 ## 1.0 Translation, Localization & Language Industry
 
 ### 1.1 Core Translation & Language Skills
@@ -151,4 +160,5 @@ Artificial Intelligence & Gaming
 ## Author
 
 Natalija Marić, DipTrans MCIL CL
+
 Žirafin jezik j.d.o.o. – https://zirafinjezik.hr | LinkedIn – https://www.linkedin.com/in/natalija-maric-zirafinjezik
