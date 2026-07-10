@@ -41,7 +41,8 @@ Everything linked above is live and open source.
 ### 1.5 Copywriting & SEO
 - Satzbau-Bausatz: Besser Texten in der digitalen Welt – TranslaStars
 - SEO und SEA-Übersetzung – TranslaStars
-- AI SEO Course 2026: From Zero to Page-One Results (AEO, GEO) – Udemy *(in progress)*
+- AI SEO Course 2026: From Zero to Page-One Results (AEO, GEO) – Udemy
+- AI GEO 2026: Get Recommended by ChatGPT, Google, Perplexity – Udemy
 
 ### 1.6 Subtitling & Accessibility
 - Caption This! Become a Pro in Video Captioning and Subtitles – Udemy
@@ -60,6 +61,7 @@ Everything linked above is live and open source.
 - ChatGPT and Bard for Translators – TranslaStars
 - AI Prompting for Translators: From Generic Output to Reliable Results – ProZ.com
 - From ChatGPT to Claude: AI for Language Professionals – ProZ.com
+- AI-Powered Glossary Creation and Terminology Extraction – Proz.com
 
 ## 2.0 TMS & Localization Technology
 - SDL Post Editing Level 1 Certification – SDL / RWS
@@ -74,7 +76,7 @@ Everything linked above is live and open source.
 ## 3.0 Quality Assurance & Issue Tracking
 - Get the Most Out of Jira – Atlassian
 - Start Your API Testing Journey With Postman Tool – Coursera
-- Learn Jira with Real-World Examples (+ Confluence Bonus) – Udemy *(in progress)*
+- Learn Jira with Real-World Examples (+ Confluence Bonus) – Udemy
 - The Complete 2026 Software Testing Bootcamp – Udemy *(in progress)*
 - ISTQB® Certified Tester – Foundation Level – 2026 – Udemy *(in progress)*
 
