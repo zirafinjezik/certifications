@@ -1,10 +1,10 @@
 # Certifications & Credentials
 
-Chartered linguist (DipTrans, MCIL CL) with 14 years in translation and localization, now working as a **Localization Solutions Architect**: LangOps and AI workflow automation, quality governance (MQM / ISO 5060), and TMS and delivery infrastructure, built on a linguistic core.
+Chartered linguist (DipTrans, MCIL CL) with 14 years in translation and localization, now working as a **Localization Solutions Architect**
 
 ## How this maps to the work
 
-- The **chartered and linguistic credentials** are the foundation: 14 years of EN–DE–HR translation and localization across gaming, technical, and medical domains.
+- The **core linguistic credentials** are the foundation: 14 years of EN–DE–HR translation and localization across gaming, technical, and medical domains.
 - **Evaluating Translation through MQM** and the quality governance track are implemented in the [MQM Error Scorer](https://mqm.zirafinjezik.hr) and the [LQA training game](https://game.zirafinjezik.hr).
 - The **tooling and continuous-localization track** feeds into [loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline), a CI gate for string tables.
 - The **LangOps Bootcamp** capstone, a greenwashing compliance agent (n8n + Cohere, EU Directive 2024/825), is in development.
@@ -12,7 +12,7 @@ Chartered linguist (DipTrans, MCIL CL) with 14 years in translation and localiza
 
 Everything linked above is live and open source.
 
-## 1.0 Chartered & Linguistic Credentials
+## 1.0 Core Linguistic Credentials
 
 - **CIOL Diploma in Translation (Level 7)** – Chartered Institute of Linguists (CIOL)
 - ProZ Certified PRO – English–German (EN–DE) – ProZ.com
@@ -45,8 +45,9 @@ Everything linked above is live and open source.
 
 ## 5.0 LangOps & AI Localization Architecture
 
+- **Engineering the LangOps Future** – LangOps Bootcamp
 - **Master in AI & Innovation for Localization III** – TranslaStars (120 h)
-  Enterprise AI implementation and localization workflow design. Modules covered:
+  Enterprise AI implementation and localization workflow design.
 
   <details>
   <summary>Modules covered</summary>
@@ -64,7 +65,6 @@ Everything linked above is live and open source.
 
   </details>
 
-- **Engineering the LangOps Future** – LangOps Bootcamp
 - **AI Summer Camp: AI Multilingual Operations Strategist** – TranslaStars
 
   <details>
@@ -85,10 +85,9 @@ Everything linked above is live and open source.
 
 - **Postgraduate Programme in Artificial Intelligence, Machine Learning & Innovation Technologies** – MIA Digital University *(in progress)*
 - **EITCA/AI – Artificial Intelligence Programme Certificate (24 ECTS)** – EITCA Academy
-  Certificate ID: EITCA/AI/SLJ25005288 | Issued: May 2026
 
   <details>
-  <summary>12 component EITC certificates</summary>
+  <summary>Component EITC certificates</summary>
 
   - EITC/AI/GCML – Google Cloud Machine Learning
   - EITC/AI/GVAPI – Google Vision API
@@ -109,7 +108,6 @@ Everything linked above is live and open source.
 - Neural Networks and Deep Learning – DeepLearning.AI / Coursera
 - Structuring Machine Learning Projects – DeepLearning.AI / Coursera
 - Building Scalable Agentic Systems – DataCamp
-- 5-Day AI Agents Intensive – Google / Kaggle
 - AWS Generative AI Applications – Coursera
 - AWS Services for AI Solutions – AWS
 - Understanding Embeddings for Natural Language Processing – Hasso Plattner Institute
