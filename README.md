@@ -1,24 +1,55 @@
 # Certifications & Credentials
 
-Credentials behind my work as a **Localization Solutions Architect**: LangOps and AI workflow automation, quality governance (MQM / ISO 5060), and TMS and delivery infrastructure.
+Chartered linguist (DipTrans, MCIL CL) with 14 years in translation and localization, now working as a **Localization Solutions Architect**: LangOps and AI workflow automation, quality governance (MQM / ISO 5060), and TMS and delivery infrastructure, built on a linguistic core.
 
 ## How this maps to the work
 
+- The **chartered and linguistic credentials** are the foundation: 14 years of EN–DE–HR translation and localization across gaming, technical, and medical domains.
 - **Evaluating Translation through MQM** and the quality governance track are implemented in the [MQM Error Scorer](https://mqm.zirafinjezik.hr) and the [LQA training game](https://game.zirafinjezik.hr).
-- **Continuous Localization with Crowdin** and the tooling track feed directly into [loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline), a CI gate for string tables.
+- The **tooling and continuous-localization track** feeds into [loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline), a CI gate for string tables.
 - The **LangOps Bootcamp** capstone, a greenwashing compliance agent (n8n + Cohere, EU Directive 2024/825), is in development.
-- The **video game localization** track backs the game specialization across all of it.
 - The **AI/ML credentials** back the LLM evaluation and AI quality governance services.
 
 Everything linked above is live and open source.
 
-## 1.0 LangOps & AI Localization Architecture
+## 1.0 Chartered & Linguistic Credentials
+
+- **CIOL Diploma in Translation (Level 7)** – Chartered Institute of Linguists (CIOL)
+- ProZ Certified PRO – English–German (EN–DE) – ProZ.com
+- ProZ Certified PRO – German–Croatian (DE–HR) – ProZ.com
+
+## 2.0 Localization Specializations
+
+- Expert on Game Localization – TranslaStars
+- The Videogame Localization Course – TranslaStars
+- Mobile App Localization – TranslaStars
+- Expert on UX and Localization – TranslaStars
+- UX Writing and Research for Localization – TranslaStars
+- SEO und SEA-Übersetzung – TranslaStars
+- AI GEO 2026: Get Recommended by ChatGPT, Google, Perplexity – Udemy
+
+## 3.0 Quality Governance & Terminology
+
+- **Evaluating Translation through MQM** – TranslaStars → implemented as the open-source [MQM Error Scorer](https://mqm.zirafinjezik.hr)
+- AI-Powered Glossary Creation and Terminology Extraction – ProZ.com
+
+## 4.0 TMS & Delivery Infrastructure
+
+- Trados Studio 2024 – Level 3 Certification – RWS
+- memoQ Project Management in memoQ Web – Advanced – memoQ
+- memoQ TMS Essentials for Project Managers – Levels 1 & 2 – memoQ
+- Phrase Strings Developer Certification – Phrase Academy *(in progress)*
+- Agile with Atlassian Jira – Atlassian / Coursera
+- Get the Most Out of Jira – Atlassian
+- Start Your API Testing Journey With Postman Tool – Coursera
+
+## 5.0 LangOps & AI Localization Architecture
 
 - **Master in AI & Innovation for Localization III** – TranslaStars (120 h)
-  Enterprise AI implementation and localization workflow design. Includes individually certified modules:
+  Enterprise AI implementation and localization workflow design. Modules covered:
 
   <details>
-  <summary>Module certificates</summary>
+  <summary>Modules covered</summary>
 
   - Continuous Localization with Crowdin
   - Continuous Localization Meets AI
@@ -50,7 +81,7 @@ Everything linked above is live and open source.
 - Linguistic AI Certification Training – RWS
 - Linguistic Prompt Design Training – RWS
 
-## 2.0 Artificial Intelligence, Machine Learning & Data
+## 6.0 Artificial Intelligence, Machine Learning & Data
 
 - **Postgraduate Programme in Artificial Intelligence, Machine Learning & Innovation Technologies** – MIA Digital University *(in progress)*
 - **EITCA/AI – Artificial Intelligence Programme Certificate (24 ECTS)** – EITCA Academy
@@ -85,34 +116,6 @@ Everything linked above is live and open source.
 - Understanding the EU AI Act – DataCamp
 - Microsoft Learn achievements (Azure, AI, data): [public profile](https://learn.microsoft.com/en-gb/users/natalijamaric/)
 - Foundations of Data Science – Google Career Certificate, May 2026 | [Google Cloud Skills badges](https://www.skills.google/public_profiles/154a9856-7b06-4691-874d-11a5b274fd98)
-
-## 3.0 Quality Governance & Terminology
-
-- **Evaluating Translation through MQM** – TranslaStars → implemented as the open-source [MQM Error Scorer](https://mqm.zirafinjezik.hr)
-- AI-Powered Glossary Creation and Terminology Extraction – ProZ.com
-
-## 4.0 TMS & Delivery Infrastructure
-
-- Trados Studio 2024 – Level 3 Certification – RWS
-- memoQ Project Management in memoQ Web – Advanced – memoQ
-- memoQ TMS Essentials for Project Managers – Levels 1 & 2 – memoQ
-- Agile with Atlassian Jira – Atlassian / Coursera
-- Get the Most Out of Jira – Atlassian
-- Start Your API Testing Journey With Postman Tool – Coursera
-
-## 5.0 Chartered & Linguistic Credentials
-
-- CIOL Diploma in Translation (Level 7) – Chartered Institute of Linguists (CIOL)
-- ProZ Certified PRO – English–German (EN–DE) – ProZ.com
-- ProZ Certified PRO – German–Croatian (DE–HR) – ProZ.com
-
-## 6.0 Domain Specializations
-
-- Expert on Game Localization – TranslaStars
-- The Videogame Localization Course – TranslaStars
-- Mobile App Localization – TranslaStars
-- Expert on UX and Localization – TranslaStars
-- UX Writing and Research for Localization – TranslaStars
 
 ## 7.0 Professional Memberships
 
