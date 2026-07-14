@@ -9,6 +9,8 @@ Chartered linguist (DipTrans, MCIL CL) with 14 years in translation and localiza
 - The **tooling and continuous-localization track** feeds into [loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline), a CI gate for string tables.
 - The **LangOps Bootcamp** capstone, a greenwashing compliance agent (n8n + Cohere, EU Directive 2024/825), is in development.
 - The **AI/ML credentials** back the LLM evaluation and AI quality governance services.
+- The **TMS evaluation scorecard** ([live tool](https://tms-scorecard.vercel.app)) is the buyer-side method: weighted criteria for selecting a TMS in regulated and technical environments.
+
 
 Everything linked above is live and open source.
 
