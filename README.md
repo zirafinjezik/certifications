@@ -1,144 +1,100 @@
-# Certifications & Credentials
+# 👋 Hi, I'm Natalija – Localization Solutions Architect
 
-Chartered linguist (DipTrans, MCIL CL) with 14 years in translation and localization, now working as a **Localization Solutions Architect**
+Welcome to my GitHub!
 
-## How this maps to the work
+I'm a chartered linguist (DipTrans MCIL CL) with 14+ years in translation and localization, now designing the systems around it: localization pipelines, LLM workflow orchestration, and quality governance you can measure. I work across EN→DE, EN→HR, and DE↔HR, mostly in game, technical, medical, and automotive content.
 
-- The **core linguistic credentials** are the foundation: 14 years of EN–DE–HR translation and localization across gaming, technical, and medical domains.
-- **Evaluating Translation through MQM** and the quality governance track are implemented in the [MQM Error Scorer](https://mqm.zirafinjezik.hr) and the [LQA training game](https://game.zirafinjezik.hr).
-- The **tooling and continuous-localization track** feeds into [loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline), a CI gate for string tables.
-- The **LangOps Bootcamp** capstone, a greenwashing compliance agent (n8n + Cohere, EU Directive 2024/825), is in development.
-- The **AI/ML credentials** back the LLM evaluation and AI quality governance services.
-- The **TMS evaluation scorecard** ([live tool](https://tms-scorecard.vercel.app)) is the buyer-side method: weighted criteria for selecting a TMS in regulated and technical environments.
+I apply 14 years' knowledge of what a good translation looks like to building the infrastructure that produces it at scale.
 
+I'm currently expanding the engineering side through a Postgraduate Programme in AI, Machine Learning and Innovation Technology.
 
-Everything linked above is live and open source.
-
-## 1.0 Core Linguistic Credentials
-
-- **CIOL Diploma in Translation (Level 7)** – Chartered Institute of Linguists (CIOL)
-- ProZ Certified PRO – English–German (EN–DE) – ProZ.com
-- ProZ Certified PRO – German–Croatian (DE–HR) – ProZ.com
-
-## 2.0 Localization Specializations
-
-- Expert on Game Localization – TranslaStars
-- The Videogame Localization Course – TranslaStars
-- Mobile App Localization – TranslaStars
-- Expert on UX and Localization – TranslaStars
-- UX Writing and Research for Localization – TranslaStars
-- SEO und SEA-Übersetzung – TranslaStars
-- AI GEO 2026: Get Recommended by ChatGPT, Google, Perplexity – Udemy
-
-## 3.0 Quality Governance & Terminology
-
-- **Evaluating Translation through MQM** – TranslaStars → implemented as the open-source [MQM Error Scorer](https://mqm.zirafinjezik.hr)
-- AI-Powered Glossary Creation and Terminology Extraction – ProZ.com
-
-## 4.0 TMS & Delivery Infrastructure
-
-- Trados Studio 2024 – Level 3 Certification – RWS
-- SDL Post Editing Level 1 Certification – SDL / RWS
-- memoQ Project Management in memoQ Web – Advanced – memoQ
-- memoQ TMS Essentials for Project Managers – Levels 1 & 2 – memoQ
-- Phrase Strings Developer Certification – Phrase Academy *(in progress)*
-- Agile with Atlassian Jira – Atlassian / Coursera
-- Get the Most Out of Jira – Atlassian
-- Start Your API Testing Journey With Postman Tool – Coursera
-- Manual Testing with BrowserStack Live – BrowserStack Test University
-- Manual Testing with BrowserStack App Live – BrowserStack Test University
-
-## 5.0 LangOps & AI Localization Architecture
-
-- **Engineering the LangOps Future** – LangOps Bootcamp
-- **Master AI & Innovation for Localization III** – TranslaStars (120 h)
-  Enterprise AI implementation and localization workflow design.
-
-  <details>
-  <summary>Modules covered</summary>
-
-  - Continuous Localization with Crowdin
-  - Continuous Localization Meets AI
-  - Workflow Automation with Make/Integromat
-  - AI-Powered Localization Quality
-  - Marketing Localization: Strategic Decision-Making
-  - AI Visibility: Getting Found in the Age of Answer Engines
-  - Terminology Management and Generative AI
-  - Mastering Blackbird.io: Orchestrating Multilingual Workflows with AI
-  - AI Powered LQA with ContentQuo
-  - Customizing AI Translation with Wordscope
-
-  </details>
-
-- **AI Summer Camp: AI Multilingual Operations Strategist** – TranslaStars
-
-  <details>
-  <summary>Courses covered</summary>
-
-  - Vibe Coding for Localization with Crowdin
-  - OpenClaw: AI Assistant for Language Professionals
-
-  </details>
-
-- Content Localization with AI: Smarter Workflows in Gridly's CMS & TMS – TranslaStars
-- AI in Translation Bootcamp – techforword
-- Translation & AI – ITI / CTS University of Surrey
-- Linguistic AI Certification Training – RWS
-- Linguistic Prompt Design Training – RWS
-
-## 6.0 Artificial Intelligence, Machine Learning & Data
-
-- **Postgraduate Programme in Artificial Intelligence, Machine Learning & Innovation Technologies** – MIA Digital University *(in progress)*
-- **EITCA/AI – Artificial Intelligence Programme Certificate (24 ECTS)** – EITCA Academy
-
-  <details>
-  <summary>Component EITC certificates</summary>
-
-  - EITC/AI/GCML – Google Cloud Machine Learning
-  - EITC/AI/GVAPI – Google Vision API
-  - EITC/AI/MLP – Machine Learning with Python
-  - EITC/AI/ADL – Advanced Deep Learning
-  - EITC/AI/ARL – Advanced Reinforcement Learning
-  - EITC/AI/TFF – TensorFlow Fundamentals
-  - EITC/AI/DLTF – Deep Learning with TensorFlow
-  - EITC/AI/DLPTFK – Deep Learning with Python, TensorFlow and Keras
-  - EITC/AI/DLPP – Deep Learning with Python and PyTorch
-  - EITC/AI/TFQML – TensorFlow Quantum Machine Learning
-  - EITC/CP/PPF – Python Programming Fundamentals
-  - EITC/CL/GCP – Google Cloud Platform
-
-  </details>
-
-- Advanced Certificate in Machine Learning – London School of Business Administration
-- Neural Networks and Deep Learning – DeepLearning.AI / Coursera
-- Structuring Machine Learning Projects – DeepLearning.AI / Coursera
-- Building Scalable Agentic Systems – DataCamp
-- AWS Generative AI Applications – Coursera
-- AWS Services for AI Solutions – AWS
-- Understanding Embeddings for Natural Language Processing – Hasso Plattner Institute
-- Understanding the EU AI Act – DataCamp
-- Microsoft Learn achievements (Azure, AI, data): [public profile](https://learn.microsoft.com/en-gb/users/natalijamaric/)
-- Foundations of Data Science – Google Career Certificate, May 2026 | [Google Cloud Skills badges](https://www.skills.google/public_profiles/154a9856-7b06-4691-874d-11a5b274fd98)
-
-## 7.0 Professional Memberships
-
-Linguistic Authority & Localization
-
-- Chartered Institute of Linguists (CIOL) – Chartered Linguist (MCIL CL)
-- Institute of Translation and Interpreting (ITI) – Affiliate Member
-- Women in Localization (WIL) – Member
-- Translators Without Borders (TWB) – Volunteer
-
-Artificial Intelligence & Gaming
-
-- Croatian AI Association (CroAI) – Member
-- Women in AI (WAI) – Member
-- International Game Developers Association (IGDA) – Individual Member
+I run [Žirafin jezik j.d.o.o.](https://zirafinjezik.hr), a Croatian localization and language quality company founded in 2014.
 
 ---
 
-## Author
+## 🧱 What I Do
 
-Natalija Marić, DipTrans MCIL CL
+- **Localization architecture** – end-to-end workflow design across multi-TMS ecosystems: connectors, validation gates, file engineering (XLIFF, XML, JSON, YAML), and migration planning
+- **LangOps & pipeline orchestration** – n8n and API middleware routing content between MT engines, LLMs, and human review; continuous localization wired into CI/CD
+- **Quality governance** – MQM and ISO 5060 scoring architectures applied as data you can track and report, not a subjective gut call
+- **AI quality & evaluation** – LLM output evaluation, hallucination detection, and prompt frameworks for multilingual production
+- **Terminology governance** – enforceable termbases and glossary extraction across enterprise accounts
+- **Localization tooling** – browser and CLI tools for error scoring, file conversion, validation, and reporting (Python, React, Vite)
 
-Žirafin jezik j.d.o.o. – <https://zirafinjezik.hr> | LinkedIn – <https://www.linkedin.com/in/natalija-maric-zirafinjezik>
+---
+
+## 🛠 Tools & Platforms
+
+- **Localization:** Across, CafeTran, Crowdin, GlobalLink, Heartsome Translation Studio, Lokalise, memoQ, OmegaT, Phrase, Smartcat, SmartEditor, Smartling, Swordfish, Trados Studio, Transit NXT, Wordbee, Wordfast, Wordscope, XTM
+- **Orchestration & AI:** n8n, Blackbird.io, OpenRouter, Cohere, ContentQuo
+- **QA Tools:** Verifika, Xbench
+- **Bug Tracking:** Jira, TestRail
+- **Project Management:** Asana, Monday, Plunet, Protemos, Trello, XTRF
+- **Dev Tools:** Git, GitHub, Python, React, Vite
+- **Cloud:** AWS, Azure, Google Cloud
+
+---
+
+## 🚀 Featured Projects
+
+### 📐 Architecture & Decision Tools
+| Tool | Purpose | Demo |
+|---|---|---|
+| TMS Evaluation Scorecard | Weighted buyer-side framework for selecting a TMS in regulated and technical environments | [tms-scorecard.vercel.app](https://tms-scorecard.vercel.app/) |
+
+### 🔁 Continuous Localization QA
+
+**[loc-qa-pipeline](https://github.com/zirafinjezik/loc-qa-pipeline)** connects the LQA tools below into one CI workflow: string tables live in the repo, and every pull request runs an automated QA gate (placeholder parity, character limits, coverage, punctuation, whitespace, numbers) plus pseudo-localization. Errors block the merge; the QA report ships as a build artifact.
+
+### 🔍 LQA Lifecycle Tools
+A suite of open-source tools covering the full LQA workflow:
+
+| Tool | Purpose | Demo |
+|---|---|---|
+| [MQM Error Scorer](https://github.com/zirafinjezik/mqm_checker) | Log errors, score quality, export Excel reports | [mqm.zirafinjezik.hr](https://mqm.zirafinjezik.hr) |
+| [LQA Checker](https://github.com/zirafinjezik/lqa_checker) | String QA: character limits, placeholders, punctuation, whitespace, numbers | [lqa.zirafinjezik.hr](https://lqa.zirafinjezik.hr) |
+| [LQA Challenge](https://github.com/zirafinjezik/lqa_game) | Gamified LQA training game with leaderboard | [game.zirafinjezik.hr](https://game.zirafinjezik.hr) |
+
+### ⚙️ Localization Engineering
+| Tool | Purpose | Demo |
+|---|---|---|
+| [TMX Language Conversion](https://github.com/zirafinjezik/tmx-language-conversion) | Realign locale codes in TMX translation memory files; browser tool plus Python CLI | [tmx.zirafinjezik.hr](https://tmx.zirafinjezik.hr) |
+
+---
+
+## 🌍 Languages
+- English – German EN→DE
+- English – Croatian EN→HR
+- German – Croatian DE→HR
+- Croatian – German HR→DE
+
+---
+
+## 📜 Certifications & Memberships
+
+**Certificates**
+
+See the [Certifications repository](https://github.com/zirafinjezik/certifications) for a curated list of credentials across localization, LangOps, AI/ML, quality governance, and TMS infrastructure.
+
+**Memberships:**
+- CIOL MCIL CL
+- ITI Affiliate
+- ProZ Certified PRO
+- Women in Localization
+- Women in AI
+- CroAI
+- International Game Developers Association
+- Translators Without Borders
+
+---
+
+## 📫 Contact
+
+- 🌐 [zirafinjezik.hr](https://zirafinjezik.hr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/natalija-maric-zirafinjezik)
+- 📧 [info@zirafinjezik.hr](mailto:info@zirafinjezik.hr)
+- 🔤 [ProZ Profile](https://www.proz.com/profile/2866207)
+
+---
+
+*Lok'tar ogar.*
