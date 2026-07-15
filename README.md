@@ -38,17 +38,20 @@ Everything linked above is live and open source.
 ## 4.0 TMS & Delivery Infrastructure
 
 - Trados Studio 2024 – Level 3 Certification – RWS
+- SDL Post Editing Level 1 Certification – SDL / RWS
 - memoQ Project Management in memoQ Web – Advanced – memoQ
 - memoQ TMS Essentials for Project Managers – Levels 1 & 2 – memoQ
 - Phrase Strings Developer Certification – Phrase Academy *(in progress)*
 - Agile with Atlassian Jira – Atlassian / Coursera
 - Get the Most Out of Jira – Atlassian
 - Start Your API Testing Journey With Postman Tool – Coursera
+- Manual Testing with BrowserStack Live – BrowserStack Test University
+- Manual Testing with BrowserStack App Live – BrowserStack Test University
 
 ## 5.0 LangOps & AI Localization Architecture
 
 - **Engineering the LangOps Future** – LangOps Bootcamp
-- **Master in AI & Innovation for Localization III** – TranslaStars (120 h)
+- **Master AI & Innovation for Localization III** – TranslaStars (120 h)
   Enterprise AI implementation and localization workflow design.
 
   <details>
